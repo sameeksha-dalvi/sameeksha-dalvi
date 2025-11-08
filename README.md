@@ -7,7 +7,7 @@ Right now, I’m exploring projects from **The Odin Project** to strengthen my f
 
 ### 🧠 Skills & Tools
 - **Languages:** Java, JavaScript, HTML, CSS  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools:** Git, GitHub, VS Code, Linux Command Line, Postman  
 
 ---
 

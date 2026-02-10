@@ -6,7 +6,7 @@ Right now, I’m exploring projects from **The Odin Project** and **FullStackOpe
 
 ---
 
-## Skills & Tools
+### Skills & Tools
 
 **Languages:**  
 Java, JavaScript, HTML, CSS  

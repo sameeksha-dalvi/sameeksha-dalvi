@@ -1,13 +1,24 @@
 # Hi, I'm Sameeksha!
 
-I’m learning web development and enjoy building clean, responsive web pages using **HTML, CSS, and JavaScript**.  
-Right now, I’m exploring projects from **The Odin Project** to strengthen my fundamentals and gain real-world experience.
+I’m learning web development and enjoy building clean, responsive interfaces using **HTML, CSS, JavaScript, and React**.
+
+Right now, I’m exploring projects from **The Odin Project** and **FullStackOpen** to strengthen my fundamentals, learn modern tooling, and gain real-world experience.
 
 ---
 
-###  Skills & Tools
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Tools:** Git, GitHub, VS Code, Linux Command Line, Postman  
+## Skills & Tools
+
+**Languages:**  
+Java, JavaScript, HTML, CSS  
+
+**Frontend:**  
+React, CSS Grid, Flexbox  
+
+**Build Tools:**  
+Webpack, Vite  
+
+**Other Tools:**  
+Git, GitHub, VS Code, Linux Command Line, Postman  
 
 ---
 

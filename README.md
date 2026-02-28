@@ -1,8 +1,6 @@
 # Hi, I'm Sameeksha!
 
-I’m learning web development and enjoy building clean, responsive interfaces using **HTML, CSS, JavaScript, and React**.
-
-Right now, I’m exploring projects from **The Odin Project** and **FullStackOpen** to strengthen my fundamentals, learn modern tooling, and gain real-world experience.
+I am a Front-End Developer focused on building clean, responsive, and high-performance web applications.
 
 ---
 

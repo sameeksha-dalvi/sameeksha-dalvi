@@ -21,7 +21,9 @@ Git, GitHub, VS Code, Linux Command Line, Postman
 ---
 
 ### Open Source Contributions
-- The Odin Project – Documentation updates (Merged PRs: [#30703](https://github.com/TheOdinProject/curriculum/pull/30703), [#30856](https://github.com/TheOdinProject/curriculum/pull/30856), [#30695](https://github.com/TheOdinProject/curriculum/pull/30695), [#30742](https://github.com/TheOdinProject/curriculum/pull/30742), [#30803](https://github.com/TheOdinProject/curriculum/pull/30803), [#30821](https://github.com/TheOdinProject/curriculum/pull/30821))
+
+* **The Odin Project** — Regular contributor to curriculum documentation.
+  [View all merged contributions](https://github.com/TheOdinProject/curriculum/pulls?q=is%3Apr+author%3Asameeksha-dalvi+is%3Amerged)
 
 ---
 

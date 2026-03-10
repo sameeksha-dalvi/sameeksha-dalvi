@@ -1,6 +1,6 @@
 # Hi, I'm Sameeksha!
 
-I am a Front-End Developer focused on building clean, responsive, and high-performance web applications.
+Front-End Developer currently expanding into full-stack development
 
 ---
 

@@ -22,8 +22,9 @@ Git, GitHub, VS Code, Linux Command Line, Postman
 
 ### Open Source Contributions
 
-* **Mozilla Firefox (Bug 2021421)** — Removed redundant lazy preference getters in the sidebar module.
-  [View on Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=2021421)
+* **Mozilla Firefox** — Contributed to frontend improvements:
+  - Removed redundant lazy preference getters in the sidebar module. ([D289042](https://phabricator.services.mozilla.com/D289042))
+  - Added accessible naming to the Delete from History dialog to improve screen reader support. ([D289633](https://phabricator.services.mozilla.com/D289633))
 
 * **The Odin Project** — Regular contributor to curriculum documentation.
   [View all merged contributions](https://github.com/TheOdinProject/curriculum/pulls?q=is%3Apr+author%3Asameeksha-dalvi+is%3Amerged)
@@ -31,8 +32,8 @@ Git, GitHub, VS Code, Linux Command Line, Postman
 ---
 
 ### Connect with me
--  [Twitter](https://x.com/sameekshadalvi7)  
--  [Medium Blog](https://medium.com/@sameekshadalvi7)  
+  [Twitter](https://x.com/sameekshadalvi7)  | [Blog](https://medium.com/@sameekshadalvi7)
+  
 
 ---
 

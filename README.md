@@ -12,6 +12,9 @@ Java, JavaScript, HTML, CSS
 **Frontend:**  
 React, CSS Grid, Flexbox  
 
+**Backend and Databases:**  
+Node.js, ExpressJS, MongoDb
+
 **Build Tools:**  
 Webpack, Vite  
 

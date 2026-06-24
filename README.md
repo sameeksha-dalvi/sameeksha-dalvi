@@ -31,6 +31,7 @@ Git, GitHub, VS Code, Linux Command Line, Postman
   - Fixed accessibility issue where the Customize button did not expose its expanded/collapsed state to assistive technologies. ([D294100](https://phabricator.services.mozilla.com/D294100))
   - Updated Customize button icon markup to follow accessibility best practices by using alt="" for decorative images. ([D296514](https://phabricator.services.mozilla.com/D296514))
   - Fixed accessibility issue where the Weather card menu button did not expose its expanded/collapsed state to assistive technologies. ([D301289](https://phabricator.services.mozilla.com/D301289))
+  - Added accessible naming to the Focus Timer widget menu button to improve screen reader support. ([D305877](https://phabricator.services.mozilla.com/D305877))
 
 * **The Odin Project** — Contributed to curriculum documentation fixes and improvements.
   [View all merged contributions](https://github.com/TheOdinProject/curriculum/pulls?q=is%3Apr+author%3Asameeksha-dalvi+is%3Amerged)

@@ -7,19 +7,19 @@ Front-End Developer currently expanding into full-stack development
 ### Skills & Tools
 
 **Languages:**  
-Java, JavaScript, HTML, CSS  
+JavaScript, TypeScript, HTML, CSS, Java
 
 **Frontend:**  
-React, CSS Grid, Flexbox  
+React, Tailwind CSS
 
 **Backend and Databases:**  
 Node.js, ExpressJS, MongoDb
 
-**Build Tools:**  
-Webpack, Vite  
+**Testing:**  
+Vitest, Playwright
 
-**Other Tools:**  
-Git, GitHub, VS Code, Linux Command Line, Postman  
+**Tools:**  
+Git, GitHub, Webpack, Vite, Postman, Linux
 
 ---
 
